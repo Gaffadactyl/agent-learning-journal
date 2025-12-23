@@ -20,3 +20,11 @@ This repository documents my hands-on apprenticeship in AI agent engineering.
 ## Status
 This repository is actively evolving as part of a structured training program.
 This is a collection of AI Learning Lessons and Agentic Projects
+
+| Level   | Repo Type               | Purpose                      | Audience              |
+| ------- | ----------------------- | ---------------------------- | --------------------- |
+| Level 0 | Learning Journal        | Exploration, notes, drafts   | You                   |
+| Level 1 | Foundations Repo        | Proves fundamentals          | Reviewers, future you |
+| Level 2 | Agent Fundamentals Repo | Manual agents, no frameworks | Engineers             |
+| Level 3 | Agent Systems Repo      | Multi-agent, memory, SQL     | Clients / employers   |
+| Level 4 | Capstone / Product Repo | End-to-end system            | Public                |
